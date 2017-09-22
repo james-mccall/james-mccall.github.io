@@ -26,22 +26,9 @@
   }
 }
 
-.header-container {
-  background-color: black;
-  background: url('../img/bg.jpg') no-repeat 50% 0;
-  color: #fff;
-
-  h1 {
-    color: #fff;
-  }
-  // background-attachment: fixed;
-  background-size: cover;
-  background-position: center 36%;
-  margin-top: -37px;
-}
-
 .site-nav {
-  float: right;
+  // float: right;
+  display: inline-block;
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
@@ -53,7 +40,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $nav-text-color;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
