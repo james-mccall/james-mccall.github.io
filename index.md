@@ -16,16 +16,13 @@ layout: default
 
 <div class="page-content">
 	<h2 ><span style="letter-spacing:0.1em;">About</span></h2> 
-	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </p>
+	<p>Warm hospitality in the heart of Hillcrest. Situated in the one of the healthiest climates in the world Hillcrest has evolved from the country retreat of the discerning Durban family to the most desirable country retreat for tourists and business travellers in KwaZulu-Natal.</p>
 
-<p>Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. </p>
-
-
+	<p>At the Brackens the well appointed, spacious rooms and kingsize beds are individually styled to provide comfort in relaxing surroundings. Unwind by relaxing around the pool, strolling through the garden, or taking a quiet siesta under the wild fig tree. Your hosts, <em>James and Barbara</em>, will assist you in selecting restaurants and other attractions from the excellent range of shops, and activities in the area.</p>
 </div>
 
 <div class="page-content">
 	<h2><span style="letter-spacing:0.1em;">Services</span></h2> 
-
 
 	<div >
 		<div class="flex-col">
@@ -47,9 +44,9 @@ layout: default
 		</div>
 
 		<div class="flex-col">
-			<div class="third"><p>All rooms are full en-suite bathroom with private lounge area & separate entrance.</p></div>
-			<div class="third"><p>English or Continental breakfast. Served daily and made to order.</p></div>
-			<div class="third"><p>Select DSTv Channels, Wireless Internet & Laundry services. Refreshments fridge, Tea/Coffee making facilities.</p></div>
+			<div class="third"><p>En-suite bathroom, private lounge & separate entrance.</p></div>
+			<div class="third"><p>English or Continental. Served daily.</p></div>
+			<div class="third"><p>DSTv Channels. Fridge. Tea & coffee facilities.</p></div>
 		</div>
 
 		<div class="flex-col">
@@ -70,7 +67,7 @@ layout: default
 			<div class="third"><p>Transportation</p></div>
 		</div>
 		<div class="flex-col">
-			<div class="third"><p>Free WIFI avaliable throughout the entire BnB. Fax and printing services avaliable on request.</p></div>
+			<div class="third"><p>WIFI avaliable throughout. Fax and printing services.</p></div>
 			<div class="third"><p>All our rooms are cleaned and prepared each morning.</p></div>
 			<div class="third"><p>Airport transfers/car hire if required.</p></div>
 		</div>
@@ -81,4 +78,22 @@ layout: default
 
 <div class="page-content">
 	<h2><span style="letter-spacing:0.1em;">Rates</span></h2> 
+	<div>
+		<div class="flex-col">
+			<div>Single: 550 p/n</div>
+		<div class="flex-col">
+		</div>
+			<div>Double: 750 p/n</div>
+		<div class="flex-col">
+		</div>
+			<div>Triple: 850 p/n</div>
+		<div class="flex-col">
+		</div>
+			<div>Four +: 950 p/n</div>
+		</div>
+		</div>
+</div>
+
+<div class="page-content">
+	<h2><span style="letter-spacing:0.1em;">Things To Do</span></h2> 
 </div>
