@@ -80,16 +80,16 @@ layout: default
 	<h2><span style="letter-spacing:0.1em;">Rates</span></h2> 
 	<div>
 		<div class="flex-col">
-			<div>Single: 550 p/n</div>
+			<div>Single: R650 p/n</div>
 		<div class="flex-col">
 		</div>
-			<div>Double: 750 p/n</div>
+			<div>Double: R880 p/n</div>
 		<div class="flex-col">
 		</div>
-			<div>Triple: 850 p/n</div>
+			<div>Triple: R1320 p/n</div>
 		<div class="flex-col">
 		</div>
-			<div>Four +: 950 p/n</div>
+			<div>Four +: Enquiries welcome p/n</div>
 		</div>
 		</div>
 </div>
