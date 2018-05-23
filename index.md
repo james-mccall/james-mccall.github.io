@@ -80,16 +80,16 @@ layout: default
 	<h2><span style="letter-spacing:0.1em;">Rates</span></h2> 
 	<div>
 		<div class="flex-col">
-			<div>Single: R650 p/n &nbsp&nbsp&nbsp</div>
+			<div>Single: R650 p/n     </div>
 		<div class="flex-col">
 		</div>
-			<div>Double: R880 p/n&nbsp&nbsp&nbsp</div>
+			<div>Double: R880 p/n     </div>
 		<div class="flex-col">
 		</div>
-			<div>Triple: R1320 p/n&nbsp&nbsp&nbsp</div>
+			<div>Triple: R1320 p/n     </div>
 		<div class="flex-col">
 		</div>
-			<div>Four +: Enquiries welcome info@brackens.co.za &nbsp&nbsp&nbsp</div>
+			<div>Four +: Enquiries welcome info@brackens.co.za</div>
 		</div>
 		</div>
 </div>
